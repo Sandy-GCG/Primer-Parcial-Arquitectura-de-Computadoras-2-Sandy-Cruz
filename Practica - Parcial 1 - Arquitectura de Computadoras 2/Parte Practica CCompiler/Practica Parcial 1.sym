@@ -1,0 +1,60 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+004-005 @WRITE_PROGRAM_MEMORY8.P2
+015     CCP_1
+015     CCP_1_LOW
+016     CCP_1_HIGH
+01B     CCP_2
+01B     CCP_2_LOW
+01C     CCP_2_HIGH
+020     count
+021     @delay_ms1.P1
+021     main.@SCRATCH1
+077     @SCRATCH
+078     @SCRATCH
+078     _RETURN_
+079     @SCRATCH
+07A     @SCRATCH
+107.6   C1OUT
+108.6   C2OUT
+10D-10E @WRITE_PROGRAM_MEMORY8.P1
+10D-10E @READ_PROGRAM_MEMORY8.P2
+
+ROM Allocation:
+000004  @delay_ms1
+000019  @cinit1
+000019  main
+00002B  @cinit2
+
+Project Directory:
+    C:\Users\Sandy González\OneDrive - Universidad Mariano Gálvez\Escritorio\Universidad\Semestre 8\Arquitectura de Computadoras II\Practica - Parcial 1 - Arquitectura de Computadoras 2\Parte Practica CCompiler\
+
+Project Files:
+    Practica Parcial 1.c                                    [16-ago.-22 15:53  CRC=D41D628B]
+    Practica Parcial 1.h                                    [16-ago.-22 15:53  CRC=64D0046D]
+    ..\..\..\..\..\..\..\..\..\Program Files (x86)\PICC\Devices\16F887.h [18-abr.-14 16:56  CRC=42D047B0]
+
+Source signature=BE8DF658
+
+Units:
+    Practica Parcial 1 (main)
+
+Compiler Settings:
+    Processor:      PIC16F887
+    Pointer Size:   16
+    ADC Range:      0-65535
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+    Compile Mode:       CCS5
+
+Output Files:
+    XREF file:   Practica Parcial 1.xsym
+    Errors:      Practica Parcial 1.err
+    Ext Symbols: Practica Parcial 1.esym
+    INHX8:       Practica Parcial 1.hex
+    Symbols:     Practica Parcial 1.sym
+    List:        Practica Parcial 1.lst
+    Debug/COFF:  Practica Parcial 1.cof
+    Project:     Practica Parcial 1.ccspjt
+    Call Tree:   Practica Parcial 1.tre
+    Statistics:  Practica Parcial 1.STA

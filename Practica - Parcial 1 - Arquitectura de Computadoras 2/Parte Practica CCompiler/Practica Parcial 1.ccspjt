@@ -1,0 +1,39 @@
+[PROJECT]
+Target=Practica Parcial 1.hex
+Processor_Text=PIC16F887
+CCSVerions=5.025
+Compiler=PCM
+CCSVersion=5.025
+[Target Data]
+FileList=Practica Parcial 1.c
+[Directories]
+Include=
+[C:\Users\Sandy González\OneDrive - Universidad Mariano Gálvez\Escritorio\Universidad\Semestre 8\Arquitectura de Computadoras II\Laboratorio 1 - Grupo  3 - Arquitectura de Computadoras 2\Parte Practica CCompiler\Practica Parcial 1]
+Type=4
+[mru-list]
+1=Practica Parcial 1.c
+
+[ProjectLog]
+Days=1
+D1=16-08-2022
+D1_L=6
+D1_L1=[57193]Project Opened.
+D1_L2=[57210]Started Editing.
+D1_L3=[57362]Stopped Editing.
+TotalEdit=3
+TotalDebug=0
+D1_E=3
+D1_D=0
+D1_L4=[57362]Project Closed.
+D1_L5=[58356]Project Opened.
+D1_L6=[61747]Project Closed.
+
+[Opened Files]
+1=Practica Parcial 1.c
+2=
+3=
+[Practica Parcial 1.c]
+Type=4
+[Units]
+Count=1
+1=Practica Parcial 1 (main)
